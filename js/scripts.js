@@ -1,7 +1,3 @@
 $(document).ready(function() {
-  $("form#quiz").submit(function(event) {
-    // $("#quiz").children("div").hide();
-  });
-
-
-});
+  $("#quiz form").submit(function(event) {
+    $("#results").children("div").hide(); {
