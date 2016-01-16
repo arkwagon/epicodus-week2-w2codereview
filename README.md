@@ -10,7 +10,7 @@ _The assignment is to create a mock travel site that will ask a user to fill out
 
 ## Known Bugs
 
-_No known bugs (as of yet)_
+_It doesn't work at all._
 
 ## Support and contact details
 
@@ -18,7 +18,7 @@ _Contact info: wilmurph@gmail.com_
 
 ## Technologies Used
 
-  _HTML CSS BOOTSTRAP JAVASCRIPT JQUERY_
+_HTML CSS BOOTSTRAP JAVASCRIPT JQUERY_
 
 ### License
 
